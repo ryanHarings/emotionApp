@@ -4,7 +4,7 @@ import './App.css';
 import Footer from './components/Footer'
 import Emotion from './components/Emotion'
 import Header from './components/Header'
-import emotionData from './jsonDataTemp/emotionData'
+// import emotionData from './jsonDataTemp/emotionData'
 
 class App extends React.Component {
   state = {
@@ -12,7 +12,15 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    fetch("http://localhost:5000/emotions"
+    const hostname = window.location.host
+    var apiURL
+    if (hostname === "localhost:3000") {
+      apiURL = "http://localhost:5000/emotions"
+    } else {
+      apiURL = "https://emotion-app-be.herokuapp.com/"
+    }
+    console.log(hostname)
+    fetch(apiURL
       // method: "GET"
       // headers: {  
       //   "Access-Control-Allow-Origin": "*",
