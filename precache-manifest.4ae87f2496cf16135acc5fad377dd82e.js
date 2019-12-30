@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7947a959721b0def9ba62c490cd70d36",
+    "revision": "8dcbaf51b976718bf518df6541e16c16",
     "url": "/emotion-app/index.html"
   },
   {
-    "revision": "5ef3c06652900ecfeae7",
+    "revision": "c128740083089b806e64",
     "url": "/emotion-app/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emotion-app/static/js/2.34cb0409.chunk.js.LICENSE"
   },
   {
-    "revision": "5ef3c06652900ecfeae7",
-    "url": "/emotion-app/static/js/main.fba3f14e.chunk.js"
+    "revision": "c128740083089b806e64",
+    "url": "/emotion-app/static/js/main.e81ed081.chunk.js"
   },
   {
     "revision": "56a130fd62673f4b6d83",
