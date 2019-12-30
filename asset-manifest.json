@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/emotionApp/static/css/main.d1b05096.chunk.css",
-    "main.js": "/emotionApp/static/js/main.ef897266.chunk.js",
-    "main.js.map": "/emotionApp/static/js/main.ef897266.chunk.js.map",
-    "runtime-main.js": "/emotionApp/static/js/runtime-main.ea3dc2d3.js",
-    "runtime-main.js.map": "/emotionApp/static/js/runtime-main.ea3dc2d3.js.map",
-    "static/js/2.73cbec24.chunk.js": "/emotionApp/static/js/2.73cbec24.chunk.js",
-    "static/js/2.73cbec24.chunk.js.map": "/emotionApp/static/js/2.73cbec24.chunk.js.map",
-    "index.html": "/emotionApp/index.html",
-    "precache-manifest.476d4f0bd6ae6246ec4bc2253269ec51.js": "/emotionApp/precache-manifest.476d4f0bd6ae6246ec4bc2253269ec51.js",
-    "service-worker.js": "/emotionApp/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/emotionApp/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.73cbec24.chunk.js.LICENSE": "/emotionApp/static/js/2.73cbec24.chunk.js.LICENSE",
-    "static/media/logo.svg": "/emotionApp/static/media/logo.5d5d9eef.svg"
+    "main.css": "/emotion-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/emotion-app/static/js/main.ae51ffed.chunk.js",
+    "main.js.map": "/emotion-app/static/js/main.ae51ffed.chunk.js.map",
+    "runtime-main.js": "/emotion-app/static/js/runtime-main.0bbaf69e.js",
+    "runtime-main.js.map": "/emotion-app/static/js/runtime-main.0bbaf69e.js.map",
+    "static/js/2.73cbec24.chunk.js": "/emotion-app/static/js/2.73cbec24.chunk.js",
+    "static/js/2.73cbec24.chunk.js.map": "/emotion-app/static/js/2.73cbec24.chunk.js.map",
+    "index.html": "/emotion-app/index.html",
+    "precache-manifest.ecd19f2214de73b5006d7570c6847df6.js": "/emotion-app/precache-manifest.ecd19f2214de73b5006d7570c6847df6.js",
+    "service-worker.js": "/emotion-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/emotion-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.73cbec24.chunk.js.LICENSE": "/emotion-app/static/js/2.73cbec24.chunk.js.LICENSE",
+    "static/media/logo.svg": "/emotion-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea3dc2d3.js",
+    "static/js/runtime-main.0bbaf69e.js",
     "static/js/2.73cbec24.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ef897266.chunk.js"
+    "static/js/main.ae51ffed.chunk.js"
   ]
 }
