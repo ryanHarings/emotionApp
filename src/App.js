@@ -17,8 +17,9 @@ class App extends React.Component {
     if (hostname === "localhost:3000") {
       apiURL = "http://localhost:5000/emotions"
     } else {
-      apiURL = "https://emotion-app-be.herokuapp.com/"
+      apiURL = "https://emotion-app-be.herokuapp.com/emotions"
     }
+    console.log(apiURL)
     console.log(hostname)
     fetch(apiURL
       // method: "GET"
