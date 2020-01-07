@@ -10,10 +10,12 @@ import React from 'react'
 //     console.log(data)
 // })
 
-function Emotion(props) {
-    return (
-        <div>Im feeling: {props.emotion}</div>
-    )
+class Emotion extends React.Component {
+    render () {
+        return (
+            <div>Im feeling: {this.props.emotion}</div>
+        )
+    }
 }
 
 export default Emotion
